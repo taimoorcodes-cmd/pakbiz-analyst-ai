@@ -1,0 +1,37 @@
+# Environment variables (SECRET — DO NOT UPLOAD!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Data uploads
+data/uploads/
+
+# Logs
+*.log
+
+# Test coverage
+.coverage
+htmlcov/

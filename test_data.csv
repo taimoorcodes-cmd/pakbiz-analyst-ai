@@ -1,0 +1,74 @@
+OrderID,Date,City,CustomerName,Category,Quantity,UnitPrice_PKR,PaymentMethod
+ORD-1001,9/1/2026,Lahore,Ali Khan,Menswear,2,4500,Cash on Delivery
+ORD-1002,9/1/2026,Karachi,Fatima Bibi,Womenswear,1,12000,Credit Card
+ORD-1003,9/2/2026,Islamabad,Usman Malik,Kids Wear,3,3500,JazzCash
+ORD-1004,9/2/2026,Peshawar,Ayesha Omer,Menswear,1,5000,EasyPaisa
+ORD-1001,9/1/2026,Lahore,Ali Khan,Menswear,2,4500,Cash on Delivery
+ORD-1005,9/3/2026,Quetta,Zainab Noor,Womenswear,2,9500,Cash on Delivery
+ORD-1006,9/3/2026,Faisalabad,Bilal Ahmed,Kids Wear,,4000,Credit Card
+ORD-1007,9/4/2026,Multan,Hassan Raza,Menswear,1,6000,JazzCash
+ORD-1008,9/4/2026,Rawalpindi,Amina Tariq,Womenswear,4,15000,EasyPaisa
+ORD-1009,9/5/2026,Sialkot,Hamza Sheikh,Menswear,2,4800,Cash on Delivery
+ORD-1010,9/5/2026,Gujranwala,Sana Mir,Womenswear,1,11000,Credit Card
+ORD-1011,9/6/2026,Hyderabad,Kamran Akmal,Kids Wear,2,3800,JazzCash
+ORD-1012,InvalidDate,Peshawar,Zubair Khan,Menswear,3,5200,Cash on Delivery
+ORD-1013,9/7/2026,Lahore,Mehreen Jabbar,Womenswear,2,14000,EasyPaisa
+ORD-1014,9/7/2026,Karachi,Daniyal Malik,Menswear,1,4500,Credit Card
+ORD-1015,9/8/2026,Islamabad,Rabia Anjum,Womenswear,3,10500,JazzCash
+ORD-1016,9/8/2026,Faisalabad,Farhan Ali,Kids Wear,1,4200,Cash on Delivery
+ORD-1017,9/9/2026,Multan,Kiran Naz,Menswear,2,6500,Credit Card
+ORD-1018,9/9/2026,Quetta,Shoaib Akhtar,Menswear,,7000,EasyPaisa
+ORD-1019,9/10/2026,Peshawar,Nida Yasir,Womenswear,2,13000,JazzCash
+ORD-1020,9/10/2026,Lahore,Imran Nazir,Kids Wear,4,3900,Cash on Delivery
+ORD-1021,9/11/2026,Karachi,Areeba Habib,Womenswear,1,16000,Credit Card
+ORD-1022,9/11/2026,Rawalpindi,Waseem Akram,Menswear,2,5500,JazzCash
+ORD-1023,9/12/2026,Islamabad,Mahira Khan,Womenswear,3,12500,EasyPaisa
+ORD-1024,9/12/2026,Faisalabad,Babar Azam,Menswear,1,4900,Cash on Delivery
+ORD-1025,9/13/2026,Multan,Shaheen Afridi,Kids Wear,2,4100,Credit Card
+ORD-1026,9/13/2026,Peshawar,Rizwan Ahmed,Menswear,3,6000,JazzCash
+ORD-1027,9/14/2026,Lahore,Fakhar Zaman,Womenswear,,14500,Cash on Delivery
+ORD-1028,9/14/2026,Karachi,Shadab Khan,Menswear,2,5100,EasyPaisa
+ORD-1029,9/15/2026,Islamabad,Haris Rauf,Kids Wear,1,3700,Credit Card
+ORD-1030,9/15/2026,Rawalpindi,Naseem Shah,Menswear,4,6200,JazzCash
+ORD-1031,9/16/2026,Faisalabad,Imam-ul-Haq,Womenswear,2,11500,Cash on Delivery
+ORD-1032,9/16/2026,Multan,Saud Shakeel,Menswear,1,4800,Credit Card
+ORD-1033,9/17/2026,Peshawar,Agha Salman,Kids Wear,3,4000,EasyPaisa
+ORD-1034,9/17/2026,Lahore,Shan Masood,Womenswear,2,13500,JazzCash
+ORD-1035,9/18/2026,Karachi,Sarfaraz Ahmed,Menswear,1,5300,Cash on Delivery
+ORD-1036,9/18/2026,Islamabad,Mohammad Rizwan,Womenswear,2,12000,Credit Card
+ORD-1037,9/19/2026,Rawalpindi,Hasan Ali,Kids Wear,4,3800,JazzCash
+ORD-1038,9/19/2026,Faisalabad,Faheem Ashraf,Menswear,1,6100,EasyPaisa
+ORD-1039,9/20/2026,Multan,Zaman Khan,Womenswear,2,15500,Cash on Delivery
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
